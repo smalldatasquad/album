@@ -21,6 +21,8 @@ if __name__ == '__main__':
         # list of usernames to pull posts from (as returned by get_friends above),
         'users': ['user1', 'user2'],
         # will only return posts after this date (in this case, posts in the last 7 days)
-        'after_date': datetime.datetime.now() - datetime.timedelta(days=7)
+        'after_date': datetime.datetime.now() - datetime.timedelta(days=7),
+        # it will only get a maximum of this many posts from each user (no limit, if not supplied)
+        'max_num_posts_per_user': 25,
     })
     print posts
