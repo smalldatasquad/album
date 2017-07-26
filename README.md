@@ -5,6 +5,7 @@ Example of how to use the osf python library
 # setup
 
 ```
+brew install chromedriver
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
