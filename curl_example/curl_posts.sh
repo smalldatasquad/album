@@ -1,1 +1,0 @@
-curl -X POST -H "Content-Type: application/json" --data-binary "@scrape_posts.json" "http://api.opensourcefeeds.com/api/scrape_posts/"
