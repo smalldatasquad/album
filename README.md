@@ -30,4 +30,4 @@ To run the file, open Terminal and enter this line.
 python run.py
 ```
 
-# Navigate to Chrome and watch as your facebook posts scroll by. 
+# Navigate to Chrome and watch as your facebook posts scroll by 👻 👀. 
