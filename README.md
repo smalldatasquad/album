@@ -21,6 +21,7 @@ pip install -r requirements.txt
 
 # Secrets
 If you have Atom, type `Atom .` in the terminal.
+
 If not, launch a text editor and open the folder we just created called 'capture_facebook'.
 
 Duplicate the file called secrets.py.example amd rename the copy to "secrets.py".
