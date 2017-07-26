@@ -1,19 +1,24 @@
-# osf-example
+# Capture Your Facebook Posts
 
-Example of how to use the osf python library
+Small Data Squad invites you to take screenshots of your facebook data.
 
 # setup
 
+Open up an app called 'Terminal' and paste these commands in line by line, pressing 'enter' after each one. If you're asked for a password, enter the password you use to unlock your computer.
 ```
-brew install chromedriver
+sudo easy_install pip
+cd Desktop
+git clone https://github.com/smalldatasquad/capture_facebook.git
+cd capture_facebook
 pip install --upgrade pip
+brew install chromedriver
 pip install -r requirements.txt
 ```
 
 
-# run locally
+# Secrets
 
-Configure variables in run.py, and then run:
+ :
 ```
 python run.py
 ```
@@ -31,11 +36,11 @@ cd curl_example
 ./curl_friends.sh
 
 # edit scrape_posts.json
-./curl_posts.sh 
+./curl_posts.sh
 ```
 
 You may find that your first cloud run throws an error. If this happens, if you log into your facebook
 through your normal browser you may see a prompt from Facebook asking if a recent login from Virgina
-was really you (this was the scraper accessing Facebook on your behalf). 
+was really you (this was the scraper accessing Facebook on your behalf).
 
 If you approve that this was intended and then try running the curl command again it should work this time.
