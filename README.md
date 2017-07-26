@@ -1,7 +1,7 @@
 # Capture Your Facebook Posts
 
 
-Small Data Squad invites you to take screenshots of your facebook data.
+Small Data Squad invites you to take a 'screenshot' of your facebook data by scraping your posts.
 
 
 # setup
