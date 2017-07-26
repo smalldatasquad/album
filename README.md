@@ -1,6 +1,6 @@
 # osf-example
 
-Example of how to use the osf python library
+Example of how to use osf python library (main project: http://github.com/mhfowler/open-source-feeds)
 
 # setup
 
