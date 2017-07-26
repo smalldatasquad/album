@@ -1,6 +1,8 @@
 # Capture Your Facebook Posts
 
+
 Small Data Squad invites you to take screenshots of your facebook data.
+
 
 # setup
 
@@ -17,7 +19,7 @@ pip install -r requirements.txt
 
 
 # Secrets
-
+Open the folder you just created called 'capture_facebook' in a text editor like Atom. Create a new file inside th
  :
 ```
 python run.py
