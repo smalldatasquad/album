@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 
 # Secrets
-If you have Atom, type `Atom .`
+If you have Atom, type `Atom .` in the terminal.
 If not, launch a text editor and open the folder we just created called 'capture_facebook'.
 
 Duplicate the file called secrets.py.example amd rename the copy to "secrets.py".
@@ -32,4 +32,4 @@ To run the file, open Terminal and enter this line.
 python run.py
 ```
 
-# 👀 👻 Navigate to Chrome and watch as your facebook posts scroll by 👻 👀. 
+# 👀 👻 Navigate to Chrome and watch as your facebook posts scroll by 👻 👀.
