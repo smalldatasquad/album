@@ -37,4 +37,4 @@ You may find that your first cloud run throws an error. If this happens, if you 
 through your normal browser you may see a prompt from Facebook asking if a recent login from Virgina
 was really you (this was the scraper accessing Facebook on your behalf). 
 
-If you approve that this was intended and then try running the curl command again it should work the second time around.
+If you approve that this was intended and then try running the curl command again it should work this time.
