@@ -9,3 +9,5 @@ fb_posts.json
 secrets.py
 
 secrets.pyc
+
+venv/
