@@ -11,6 +11,7 @@ If you're asked for a password, enter the password you use to unlock your comput
 ```
 cd Desktop
 sudo easy_install pip
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 git clone https://github.com/smalldatasquad/capture_facebook.git
 cd capture_facebook
 pip install --upgrade pip
